@@ -1,0 +1,12 @@
+newmtl Wrench:Wrench1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wrench_Albedo.png
+map_Ka Wrench_AO.png
+bump  -bm 0 Wrench_Normal.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks Wrench_Metalness.png
+Ns 10.00

@@ -1,0 +1,56 @@
+newmtl frame1:ChickenSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 7.61
+newmtl frame1:ChickenSG1
+illum 4
+Kd 0.80 0.06 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 7.61
+newmtl frame1:ChickenSG2
+illum 4
+Kd 0.80 0.26 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 7.61
+newmtl frame1:ChickenSG3
+illum 4
+Kd 0.80 0.57 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 7.61
+newmtl frame1:ChickenSG4
+illum 4
+Kd 0.84 0.82 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 7.61
+newmtl frame1:ChickenSG5
+illum 4
+Kd 0.60 0.60 0.57
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 7.61
+newmtl frame1:ChickenSG6
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 7.61
